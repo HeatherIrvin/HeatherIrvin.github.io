@@ -1,3 +1,5 @@
 .nav-item :hover {
-    background-color: darkslategrey;
+    
+    background-color: rgb(76, 118, 172);
+    box-shadow: 1px 1px 15px black;
 }
